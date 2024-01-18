@@ -30,5 +30,5 @@ n/a
 
 ## Questions
 For additional questions, you can reach me through:
-- GitHub: [bobby](https://github.com/ih8josh)
+- GitHub: [ih8josh](https://github.com/ih8josh)
 - Email: ih8.josh903@gmail.com
